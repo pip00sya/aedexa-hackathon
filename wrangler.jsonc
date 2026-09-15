@@ -1,0 +1,45 @@
+// Cloudflare bindings for AEDEXA.
+//
+// The database is only needed for accounts and project sync: calculations run
+// on the device, and the archive lives in the browser and works without a server.
+//
+// Create the database and apply the schema:
+//   npx wrangler d1 create aedexa
+//   put the database_id below
+//   npx wrangler d1 migrations apply aedexa --remote
+//
+// The compatibility date and the nodejs_compat flag are not set here: the vinext
+// build sets them. workerd treats a repeated flag as an error and refuses
+// to start, so the dev server crashes on startup.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aedexa",
+  // Custom domain. Cloudflare creates the DNS record and certificate itself, so
+  // there is nothing to add by hand. The domain must be active in the account, or
+  // the deploy fails with "zone not found".
+  "routes": [
+    { "pattern": "aedexa.site", "custom_domain": true },
+    { "pattern": "www.aedexa.site", "custom_domain": true },
+  ],
+  // Fallback address aedexa.<subdomain>.workers.dev. Not needed with a custom domain,
+  // but handy when something goes wrong with the domain: the site stays reachable.
+  "workers_dev": true,
+  "observability": { "enabled": true },
+  // Model settings for 2D → 3D mode. These are not secrets: the provider name, URL,
+  // and model name. The key itself is set separately and never goes into this file:
+  //   npx wrangler secret put FEATHERLESS_API_KEY
+  // Without a key the mode simply stays hidden; these lines don't enable anything.
+  "vars": {
+    "FEATHERLESS_BASE_URL": "https://api.featherless.ai/v1",
+    "FEATHERLESS_MODEL": "Qwen/Qwen3-VL-32B-Instruct",
+    "RECONSTRUCTION_AI_CONTEXT_LENGTH": "48000",
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "aedexa",
+      "database_id": "5bab5cce-ff34-4cb9-8baf-cb8a0f25518f",
+      "migrations_dir": "migrations",
+    },
+  ],
+}

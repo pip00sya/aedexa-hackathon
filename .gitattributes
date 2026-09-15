@@ -1,0 +1,13 @@
+# Text in the repository uses LF line endings; drawings and images are kept byte for byte.
+* text=auto eol=lf
+
+*.dwg binary
+*.dxf binary
+*.wasm binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.webm binary
+*.avif binary
+*.woff2 binary

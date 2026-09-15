@@ -1,0 +1,13 @@
+/node_modules
+/.next/
+/.vinext/
+/dist/
+/.wrangler/
+/tsconfig.tsbuildinfo
+/public/libredwg/libredwg-web.wasm
+.env*
+!.env.example
+*.pem
+npm-debug.log*
+**/.aedexa-cache/
+.DS_Store
