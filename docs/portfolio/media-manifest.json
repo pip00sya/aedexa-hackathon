@@ -1,0 +1,62 @@
+[
+  {
+    "file": "architecture.svg",
+    "bytes": 1718,
+    "sha256": "7fa71e1353747ba5a6f115efce5ee38163dde7e298e6153776b3e520800ee7e2"
+  },
+  {
+    "file": "cover.svg",
+    "bytes": 927,
+    "sha256": "20e253432d3dbc5ad762bcd05aa559c927cc4e7c49636501e2605c2cb179755f"
+  },
+  {
+    "file": "drawing-model.jpg",
+    "bytes": 47292,
+    "sha256": "16a2c9a1a75f7c9151bd48d6d1aaadb9a489fde42ba94cdb32573cf30a87ce2a"
+  },
+  {
+    "file": "map-contour.jpg",
+    "bytes": 106846,
+    "sha256": "54015967991f46a2b77d91fad1d905bde34f88fdc927175898a3317619d8ff0d"
+  },
+  {
+    "file": "media/html-challenge-winners.webp",
+    "bytes": 53890,
+    "sha256": "eb4c58dd5b7897b5993bf10d143bd929b96ad7c7ad1a453bde68a0e676b74272"
+  },
+  {
+    "file": "model-top.jpg",
+    "bytes": 38526,
+    "sha256": "925967c2547dc4489d9bfddf4b47fc703d1931ada069154f15bc5b8974251468"
+  },
+  {
+    "file": "model.webp",
+    "bytes": 145950,
+    "sha256": "ac599cdaa1983843a8c329dfb13178b8dba343030737bdac6b11e54ee45003ad"
+  },
+  {
+    "file": "placement.jpg",
+    "bytes": 61637,
+    "sha256": "00526bf40c86f3b3ded64b837573b3bacac27bd58dfc3f8526c49783b314815a"
+  },
+  {
+    "file": "site.webp",
+    "bytes": 205114,
+    "sha256": "a1d9ad6fc20c6b9a71d485f541c21ca2b3f5d259f5b36b1d7e3952859b057689"
+  },
+  {
+    "file": "terrain-2d.jpg",
+    "bytes": 103481,
+    "sha256": "e845ab2846eb3d13a6aa25c3f1701830705e23a169e62ac301a5304a077a7e91"
+  },
+  {
+    "file": "terrain-3d.jpg",
+    "bytes": 89183,
+    "sha256": "99bce8abcfe138ed8dc1af9bec7c381570473b99636bb3222ff3d83c9596608f"
+  },
+  {
+    "file": "topography.webp",
+    "bytes": 150708,
+    "sha256": "bb56f422d34bd17dfab84744507e516fb9931d262f98a65042229e06e51fdb0f"
+  }
+]

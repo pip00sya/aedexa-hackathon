@@ -1,4 +1,48 @@
 # AEDEXA
+### From a site drawing to a model you can question.
+
+**QwertyS · HTML Challenge 2026 — first place · AI Builders Hackathon submission**
+
+AEDEXA makes early site-planning decisions inspectable: read a CAD drawing,
+identify the site, build terrain, test placement and trace the result to its rule.
+This public repository contains the **hackathon web edition** and its original
+development history. It pairs the implemented product with the competition record.
+
+[Open the hackathon app](https://aedexa.site/) ·
+[Watch the submitted demo](https://www.youtube.com/watch?v=wwHJ0La7rXE) ·
+[Devpost submission](https://devpost.com/software/aedexa) ·
+[Full visual case study](https://github.com/pip00sya/aedexa-showcase)
+
+![The hackathon web interface: CAD topography, a 3D terrain model and drawing inspection.](docs/portfolio/topography.webp)
+
+The browser parses the drawing and performs geometry, terrain and export work.
+Optional server-side AI helps interpret CAD semantics and reconstruct a building.
+When information is missing, the result is labelled `MISSING_DATA` or
+`EXPERT_REVIEW` rather than filled in with an invented answer.
+
+![Hackathon placement workflow with a site boundary and proposed buildings.](docs/portfolio/placement.jpg)
+
+## Competition record
+
+The HTML Challenge organizer's [winner announcement](https://www.instagram.com/html_challenge/p/DddbiW2jNRV/?img_index=2)
+names **Qwertys in first place**. The [event listing](https://hackathon.kz/event.html?slug=html-challenge-2026)
+and [supporting source record](docs/portfolio/HACKATHON.md) retain the context and
+distinguish scheduled dates from the later result announcement.
+
+![The organizer's HTML Challenge winner card, naming Qwertys in first place.](docs/portfolio/media/html-challenge-winners.webp)
+
+AEDEXA was also submitted to the [AI Builders Hackathon](https://ai-builders-hackathon-2026.devpost.com/)
+on Devpost; it did not receive a prize there. All screenshots, the hosted app and
+the linked video on this page refer to the hackathon edition. Media provenance is
+recorded [here](docs/portfolio/MEDIA.md).
+
+### Beyond the hackathon edition
+
+A separate, non-public expanded version exists. This subsection is reserved for
+the team's approved description of that work. Its implementation and media are
+not included in this repository.
+
+## Working with the source
 
 How the app is built is described in the [architecture notes](docs/ARCHITECTURE.md), and
 deployment in the [deployment guide](docs/DEPLOY.md).
