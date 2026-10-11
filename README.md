@@ -157,3 +157,14 @@ Regulatory values are typical and are marked as needing a check against the curr
 edition. The red line, cadastral boundary, and protection zones require official
 sources; image recognition does not replace them. The app does not produce construction
 documents and does not replace CAD or BIM systems.
+
+## Joint development and project copy
+
+**QwertyS** — jointly developed by [Shakhnazar Akhmer / Eye172](https://github.com/Eye172)
+and [Nurkhan Aimukatov / pip00sya](https://github.com/pip00sya), with equal roles as
+Full-stack Engineers, Software Engineers and AI Engineers. Shakhnazar also works as an ML Engineer.
+
+The original development history and code are preserved in
+[pip00sya/aedexa-hackathon](https://github.com/pip00sya/aedexa-hackathon).
+Full-history project copy and migration materials:
+[Eye172/aedexa-1](https://github.com/Eye172/aedexa-1).
