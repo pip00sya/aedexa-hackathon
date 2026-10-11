@@ -58,5 +58,30 @@
     "file": "topography.webp",
     "bytes": 150708,
     "sha256": "bb56f422d34bd17dfab84744507e516fb9931d262f98a65042229e06e51fdb0f"
+  },
+  {
+    "file": "media/demo-poster.jpg",
+    "bytes": 24686,
+    "sha256": "fa3e15da6e4356f9e39003f76970c59e05de0e725f480a36eb9e6f61fe8bee0e"
+  },
+  {
+    "file": "media/landing-full.jpg",
+    "bytes": 877127,
+    "sha256": "50afa6ba8e459c35fea834d6c1b40908d22ce6d8e16f38fc871ff977ce42e4fe"
+  },
+  {
+    "file": "media/landing-hero.jpg",
+    "bytes": 52828,
+    "sha256": "d150d867235d1744af165d10a880d5d28f88295cd483026688a06299021d63b6"
+  },
+  {
+    "file": "media/tetra.webm",
+    "bytes": 2129355,
+    "sha256": "21fee4e1202929308fb99f71bfc6f913e8d40a323fe8089dcfb108ac8be1f9ea"
+  },
+  {
+    "file": "media/tetrahedron.gif",
+    "bytes": 7504300,
+    "sha256": "5fd660cc51b2469538df0780e478513b609b17420adf89b7acad67e4acfded98"
   }
 ]

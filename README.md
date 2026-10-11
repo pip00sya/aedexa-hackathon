@@ -13,6 +13,40 @@ development history. It pairs the implemented product with the competition recor
 [Devpost submission](https://devpost.com/software/aedexa) ·
 [Full visual case study](https://github.com/pip00sya/aedexa-showcase)
 
+![AEDEXA's hackathon landing page: the rotating portal tetrahedron, wordmark and source-linked product statistics.](docs/portfolio/media/landing-hero.jpg)
+
+## Watch the submitted demo
+
+[![Play the AEDEXA hackathon pitch and product demo on YouTube.](docs/portfolio/media/demo-poster.jpg)](https://www.youtube.com/watch?v=wwHJ0La7rXE)
+
+**[▶ Watch AEDEXA — Devpost AI Builders hackathon pitch and demo](https://www.youtube.com/watch?v=wwHJ0La7rXE)**
+
+The original recording is hosted on Nurkhan Aimukatov's YouTube channel.
+Click the preview to watch the hackathon edition. The animation below is the
+landing-page identity; it is separate from the submitted product demo.
+
+### The tetrahedron is part of the product's identity
+
+The landing page introduces AEDEXA through a rotating **3D portal tetrahedron**.
+Its faces open onto architectural scenes, connecting the geometric mark to the
+product's movement between drawings, site geometry and spatial models. The
+wordmark, topographic background and alternating drawing-led sections carry
+that same visual language into the rest of the page.
+
+![Animated preview of AEDEXA's original portal tetrahedron.](docs/portfolio/media/tetrahedron.gif)
+
+*The original 26-second landing animation, converted to GIF for GitHub.
+[Open the retained WebM animation](docs/portfolio/media/tetra.webm).*
+
+<details><summary>See the full hackathon landing page</summary>
+
+![Full AEDEXA landing page with its reading, setbacks, terrain, volume and document sections.](docs/portfolio/media/landing-full.jpg)
+
+*Captured from the public hackathon host on 12 October 2026. The statistics
+are the project's published checks, not a newly performed independent benchmark.*
+
+</details>
+
 ![The hackathon web interface: CAD topography, a 3D terrain model and drawing inspection.](docs/portfolio/topography.webp)
 
 The browser parses the drawing and performs geometry, terrain and export work.
