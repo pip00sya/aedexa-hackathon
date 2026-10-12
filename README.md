@@ -244,5 +244,7 @@ Full-stack Engineers, Software Engineers and AI Engineers. Shakhnazar also works
 
 The original development history and code are preserved in
 [pip00sya/aedexa-hackathon](https://github.com/pip00sya/aedexa-hackathon).
-Full-history project copy and migration materials:
-[Eye172/aedexa-1](https://github.com/Eye172/aedexa-1).
+Private full-history project copy and migration materials:
+[Eye172/aedexa-1](https://github.com/Eye172/aedexa-1) (collaborator access required
+at the 12 October 2026 review). Public companion showcase:
+[Eye172/aedexa-showcase](https://github.com/Eye172/aedexa-showcase).
