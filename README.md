@@ -11,7 +11,8 @@ development history. It pairs the implemented product with the competition recor
 [Open the hackathon app](https://aedexa.site/) ·
 [Watch the submitted demo](https://www.youtube.com/watch?v=wwHJ0La7rXE) ·
 [Devpost submission](https://devpost.com/software/aedexa) ·
-[Full visual case study](https://github.com/pip00sya/aedexa-showcase)
+[Full visual case study](https://github.com/pip00sya/aedexa-showcase) ·
+[Professional pilot results](#field-pilot-with-one-architectural-practice)
 
 ![AEDEXA's hackathon landing page: the rotating portal tetrahedron, wordmark and source-linked product statistics.](docs/portfolio/media/landing-hero.jpg)
 
@@ -70,11 +71,25 @@ on Devpost; it did not receive a prize there. All screenshots, the hosted app an
 the linked video on this page refer to the hackathon edition. Media provenance is
 recorded [here](docs/portfolio/MEDIA.md).
 
-### Beyond the hackathon edition
+### Field pilot with one architectural practice
 
-A separate, non-public expanded version exists. This subsection is reserved for
-the team's approved description of that work. Its implementation and media are
-not included in this repository.
+AEDEXA completed a closed pilot with **Ansar Architects**, one company, from
+**20 September to 4 October 2026**. Four professionals worked with five sites:
+three current projects and two archived cases. The report covers timing, drawing
+compatibility, geometric comparisons, rule checks and usability.
+
+[![Reported task times in the Ansar Architects pilot. Reconstruction includes the full hour of corrections.](docs/portfolio/pilot/assets/task-times.svg)](docs/portfolio/pilot/README.md)
+
+The four timed workflows were **56.7–88.0% faster** than the reported manual
+baselines, including the stated review and corrections. Reliability remained a
+separate concern: **8/11 DWG files opened fully**, **47/50 definite verdicts agreed
+with the lead project architect**, and **one false PASS** was recorded. SUS was
+**66/100 (n=4)**. [Read the complete pilot results](docs/portfolio/pilot/README.md).
+
+Trial use continued from **5 October**; results for that stage are not reported
+yet. The expanded implementation remains private. The public product gallery and
+video show the hackathon edition; the pilot chart visualizes reported aggregate
+measurements and is not a customer-workspace screenshot.
 
 ## Working with the source
 

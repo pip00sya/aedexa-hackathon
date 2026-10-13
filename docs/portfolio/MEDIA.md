@@ -39,3 +39,10 @@ All AEDEXA product captures belong to hackathon iterations. The submitted video 
 These additions show the hackathon edition. They contain no expanded-edition media.
 The landing's published statistics remain project-reported; the capture does not
 turn them into a new verification run.
+
+## Professional pilot results
+
+The [Ansar Architects report](pilot/README.md) preserves the same closed-pilot
+results as the public showcase. Its chart visualizes reported aggregate task
+times. The report covers one company; expanded-edition code and customer drawings
+are separate from this public hackathon checkout.

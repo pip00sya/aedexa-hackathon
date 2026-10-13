@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="849.6pt" height="453.6pt" viewBox="0 0 849.6 453.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 453.6
+L 849.6 453.6
+L 849.6 0
+L 0 0
+z
+" style="fill: #fcfbf8"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 220.896 349.272
+L 824.112 349.272
+L 824.112 90.72
+L 220.896 90.72
+z
+" style="fill: #fcfbf8"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 220.896 349.272
+L 220.896 90.72
+" clip-path="url(#p10dee85dac)" style="fill: none; stroke: #dfded8; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="220.896" y="367.629422" transform="rotate(-0 220.896 367.629422)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 323.136 349.272
+L 323.136 90.72
+" clip-path="url(#p10dee85dac)" style="fill: none; stroke: #dfded8; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="323.136" y="367.629422" transform="rotate(-0 323.136 367.629422)">50</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 425.376 349.272
+L 425.376 90.72
+" clip-path="url(#p10dee85dac)" style="fill: none; stroke: #dfded8; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="425.376" y="367.629422" transform="rotate(-0 425.376 367.629422)">100</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 527.616 349.272
+L 527.616 90.72
+" clip-path="url(#p10dee85dac)" style="fill: none; stroke: #dfded8; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="527.616" y="367.629422" transform="rotate(-0 527.616 367.629422)">150</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 629.856 349.272
+L 629.856 90.72
+" clip-path="url(#p10dee85dac)" style="fill: none; stroke: #dfded8; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="629.856" y="367.629422" transform="rotate(-0 629.856 367.629422)">200</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 732.096 349.272
+L 732.096 90.72
+" clip-path="url(#p10dee85dac)" style="fill: none; stroke: #dfded8; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="732.096" y="367.629422" transform="rotate(-0 732.096 367.629422)">250</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="522.504" y="382.630281" transform="rotate(-0 522.504 382.630281)">Reported time per workflow, minutes</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="210.896" y="128.367828" transform="rotate(-0 210.896 128.367828)">DWG survey → 3D terrain</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(108.74725 186.188403)">Buildable footprint</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(135.381 199.391411)">with setbacks</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="210.896" y="256.110911" transform="rotate(-0 210.896 256.110911)">Placement: three variants</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="210.896" y="319.982453" transform="rotate(-0 210.896 319.982453)">Facade-based 2D → 3D</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 220.896 102.472364
+L 425.376 102.472364
+L 425.376 122.911257
+L 220.896 122.911257
+z
+" clip-path="url(#p10dee85dac)" style="fill: #43474b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 220.896 166.343905
+L 629.856 166.343905
+L 629.856 186.782798
+L 220.896 186.782798
+z
+" clip-path="url(#p10dee85dac)" style="fill: #43474b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 220.896 230.215447
+L 527.616 230.215447
+L 527.616 250.65434
+L 220.896 250.65434
+z
+" clip-path="url(#p10dee85dac)" style="fill: #43474b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 220.896 294.086988
+L 711.648 294.086988
+L 711.648 314.525881
+L 220.896 314.525881
+z
+" clip-path="url(#p10dee85dac)" style="fill: #43474b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 220.896 125.466119
+L 245.4336 125.466119
+L 245.4336 145.905012
+L 220.896 145.905012
+z
+" clip-path="url(#p10dee85dac)" style="fill: #087f8c"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 220.896 189.33766
+L 312.912 189.33766
+L 312.912 209.776553
+L 220.896 209.776553
+z
+" clip-path="url(#p10dee85dac)" style="fill: #087f8c"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 220.896 253.209202
+L 353.808 253.209202
+L 353.808 273.648095
+L 220.896 273.648095
+z
+" clip-path="url(#p10dee85dac)" style="fill: #087f8c"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 220.896 317.080743
+L 415.152 317.080743
+L 415.152 337.519636
+L 220.896 337.519636
+z
+" clip-path="url(#p10dee85dac)" style="fill: #087f8c"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #34383b" x="431.5104" y="115.549662" transform="rotate(-0 431.5104 115.549662)">100 min</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #075f68" x="251.568" y="138.543417" transform="rotate(-0 251.568 138.543417)">12 min  ·  88.0% less time</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #34383b" x="635.9904" y="179.421203" transform="rotate(-0 635.9904 179.421203)">200 min</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #075f68" x="319.0464" y="202.414958" transform="rotate(-0 319.0464 202.414958)">45 min  ·  77.5% less time</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #34383b" x="533.7504" y="243.292745" transform="rotate(-0 533.7504 243.292745)">150 min</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #075f68" x="359.9424" y="266.2865" transform="rotate(-0 359.9424 266.2865)">65 min  ·  56.7% less time</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #34383b" x="717.7824" y="307.164286" transform="rotate(-0 717.7824 307.164286)">240 min</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #075f68" x="421.2864" y="330.158041" transform="rotate(-0 421.2864 330.158041)">95 min  ·  60.4% less time</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_11">
+     <path d="M 229.896 409.824277
+L 249.896 409.824277
+L 249.896 402.824277
+L 229.896 402.824277
+z
+" style="fill: #43474b"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="257.896" y="409.824277" transform="rotate(-0 257.896 409.824277)">Manual workflow</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 229.896 424.825059
+L 249.896 424.825059
+L 249.896 417.825059
+L 229.896 417.825059
+z
+" style="fill: #087f8c"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="257.896" y="424.825059" transform="rotate(-0 257.896 424.825059)">AEDEXA, including stated review / corrections</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #202527" x="21.24" y="33.340875" transform="rotate(-0 21.24 33.340875)">AEDEXA × Ansar Architects</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555b5d" x="21.24" y="52.164" transform="rotate(-0 21.24 52.164)">Closed pilot · 20 September–4 October 2026 · one company · four participants</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555b5d" x="21.24" y="442.26" transform="rotate(-0 21.24 442.26)">Pilot task-time summary. The 95-minute reconstruction includes 35 minutes of tool work and 60 minutes of corrections.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p10dee85dac">
+   <rect x="220.896" y="90.72" width="603.216" height="258.552"/>
+  </clipPath>
+ </defs>
+</svg>

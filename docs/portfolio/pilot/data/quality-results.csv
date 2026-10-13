@@ -1,0 +1,9 @@
+metric,target,result,interpretation
+Fully opened DWG files,>=85%,8/11; 72.7%,Below target; two partial files and one failure
+Parcel area deviation from CAD,<=1%,Median 0.3%; maximum 1.8%,Median below threshold; largest deviation above it
+Terrain deviation from Civil 3D,<=10 cm,Mean 4 cm; maximum 31 cm,Mean below threshold; local peak requires review
+Definite rule verdicts,>=60%,50/95; 52.6%,Below target
+Agreement with lead project architect,>=95% of definite verdicts,47/50; 94%,Below target
+False PASS verdicts,0,1,Target not met; expert review remains necessary
+SUS usability score,>=68,66/100; n=4,Below target; descriptive result for the four-person cohort
+Export without manual cleanup,No manual cleanup,20-30 minutes of DAE/DXF cleanup,Target not met; no manual baseline reported

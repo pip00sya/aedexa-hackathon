@@ -1,0 +1,5 @@
+task,manual_minutes,aedexa_core_minutes,review_or_correction_minutes,aedexa_total_minutes,time_reduction_pct
+DWG survey to 3D terrain,100,12,0,12,88.0
+Buildable footprint with setbacks,200,45,0,45,77.5
+"Building placement, three variants",150,65,0,65,56.7
+Facade-based 2D to 3D,240,35,60,95,60.4

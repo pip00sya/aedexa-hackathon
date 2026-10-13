@@ -1,0 +1,120 @@
+{
+  "project": "AEDEXA",
+  "partner": "Ansar Architects",
+  "companies": 1,
+  "closed_pilot": {
+    "start": "2026-09-20",
+    "end": "2026-10-04",
+    "participants": 4,
+    "participant_roles": [
+      "lead project architect",
+      "architect",
+      "architect",
+      "site planner"
+    ],
+    "sites": 5,
+    "current_sites": 3,
+    "archived_sites": 2,
+    "dwg_files": 11
+  },
+  "continued_trial": {
+    "started": "2026-10-05",
+    "status": "ongoing",
+    "reported_results": null
+  },
+  "task_times": [
+    {
+      "task": "DWG survey to 3D terrain",
+      "manual_minutes": 100,
+      "aedexa_core_minutes": 12,
+      "review_or_correction_minutes": 0,
+      "aedexa_total_minutes": 12,
+      "time_reduction_pct": "88.0"
+    },
+    {
+      "task": "Buildable footprint with setbacks",
+      "manual_minutes": 200,
+      "aedexa_core_minutes": 45,
+      "review_or_correction_minutes": 0,
+      "aedexa_total_minutes": 45,
+      "time_reduction_pct": "77.5"
+    },
+    {
+      "task": "Building placement, three variants",
+      "manual_minutes": 150,
+      "aedexa_core_minutes": 65,
+      "review_or_correction_minutes": 0,
+      "aedexa_total_minutes": 65,
+      "time_reduction_pct": "56.7"
+    },
+    {
+      "task": "Facade-based 2D to 3D",
+      "manual_minutes": 240,
+      "aedexa_core_minutes": 35,
+      "review_or_correction_minutes": 60,
+      "aedexa_total_minutes": 95,
+      "time_reduction_pct": "60.4"
+    }
+  ],
+  "file_opening": {
+    "full": 8,
+    "partial": 2,
+    "failed": 1,
+    "total": 11,
+    "fully_opened_pct": 72.7273,
+    "target_pct": 85
+  },
+  "parcel_area_error_pct": {
+    "median": 0.3,
+    "maximum": 1.8,
+    "target": 1
+  },
+  "terrain_error_cm": {
+    "mean": 4,
+    "maximum": 31,
+    "target": 10
+  },
+  "rules": {
+    "sites": 5,
+    "rules_per_site": 19,
+    "total": 95,
+    "PASS": 41,
+    "FAIL": 9,
+    "MISSING_DATA": 27,
+    "EXPERT_REVIEW": 18,
+    "definite": 50,
+    "definite_pct": 52.6316,
+    "definite_target_pct": 60,
+    "expert_agreement": 47,
+    "expert_comparisons": 50,
+    "agreement_pct": 94,
+    "agreement_target_pct": 95,
+    "false_PASS": 1,
+    "false_PASS_target": 0
+  },
+  "usability": {
+    "SUS": 66,
+    "target": 68,
+    "respondents": 4
+  },
+  "export": {
+    "format": [
+      "DAE",
+      "DXF"
+    ],
+    "manual_cleanup_minutes": [
+      20,
+      30
+    ],
+    "manual_baseline_minutes": null
+  },
+  "source": {
+    "kind": "QwertyS closed-pilot summary",
+    "received": "2026-10-14",
+    "sha256": "4bcdb385670c17104a140878721814a34e88d2da463fe699e8d26d702228cd28",
+    "result_pages": [
+      2,
+      3
+    ]
+  }
+}

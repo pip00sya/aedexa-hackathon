@@ -1,0 +1,35 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": "assets/task-times.png",
+      "bytes": 102164,
+      "sha256": "241b09e28219631643b0a99271ba778e8ebcd9cd14c4617ff3ac20938dd05512"
+    },
+    {
+      "path": "assets/task-times.svg",
+      "bytes": 10250,
+      "sha256": "0f440a8c1632772b6c297adcc6428006c1205ab410b4b8e3846e1e957c17ba2f"
+    },
+    {
+      "path": "data/quality-results.csv",
+      "bytes": 790,
+      "sha256": "0e863b93e88ba96cf250fa807b824a24eccdfd4bcf70e95a2d1a03dd664b5057"
+    },
+    {
+      "path": "data/results.json",
+      "bytes": 2617,
+      "sha256": "fec09e08b761ff76dd5f5ac34b89c3cd6ebd01ba3365e705e9c0b264655b3836"
+    },
+    {
+      "path": "data/task-times.csv",
+      "bytes": 296,
+      "sha256": "62948c71e4f0b7c4326716ba36ca0a48212f85d7697c37e4ebe9dd46fb4dd521"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5891,
+      "sha256": "484bf0b3390ad7a59d69efe9d5347e0acbf1bcde40095c975ed240486e786795"
+    }
+  ]
+}
